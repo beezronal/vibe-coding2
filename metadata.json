@@ -1,0 +1,7 @@
+{
+  "name": "KTH Parts & Accessories",
+  "description": "A premium single-page automotive parts catalog featuring smart AI recommendations, sleek product cards, and a seamless shopping experience for professional mechanics and DIY enthusiasts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
